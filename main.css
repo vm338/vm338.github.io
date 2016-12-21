@@ -140,7 +140,7 @@ p {
    border: 1px solid;
 }
 #header {
-   background-color: gray;
+   background-color: 009BA8;
    height: 86px;
    line-height: 86px;
 }
@@ -176,12 +176,12 @@ p {
 }
 #banner {
   clear: both;
-  background-color: green;
+  background-color: 5BE5F1;
   height: 366px;
   line-height: 366px;
   padding-left: 31px;
   padding-right: 31px;
-  background-image: url('../img/banner.jpg');
+  background-image: background.jpg;
   background-position-x: 115px;
 }
 #banner h1 {
